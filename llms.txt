@@ -1,0 +1,23 @@
+# Aşkın Kadir Çekim
+
+> Personal portfolio of Aşkın Kadir Çekim, a computer science student at Karlsruhe Institute of Technology who builds applied AI products, agents, learning tools and software systems.
+
+Use the Markdown portfolio for the concise, machine-readable account of Aşkın's profile, selected projects, professional experience, technical skills and official links. Project claims are grounded in Aşkın's supplied CV and the linked first-party project listings. OmmaWorks ended in September 2026.
+
+## Portfolio
+
+- [Portfolio in Markdown](https://cekim.eu/index.md): Complete text version of the portfolio and selected work.
+- [Human-readable portfolio](https://cekim.eu/): Interactive visual portfolio.
+
+## Selected projects
+
+- [Peyk](https://devpost.com/software/peyk-knocks-only-when-it-matters): Proactive Telegram assistant that watches connected information, prioritizes interruptions and requires approval before sending.
+- [Tesseract Go](https://apps.apple.com/de/app/tesseract-ki-mathe-assistent/id6776019680): iOS STEM learning app that generates animated explanations.
+- [Twinify](https://devpost.com/software/twinify-your-ai-powered-digital-twin-for-whatsapp): Award-winning WhatsApp digital-twin project.
+- [UNITE](https://devpost.com/software/unite-government-procurement-platform): EUvsVirus challenge-winning crisis procurement platform.
+
+## Optional
+
+- [GitHub](https://github.com/akcware): Source projects and experiments.
+- [Devpost](https://devpost.com/askinkadir): Hackathon portfolio.
+- [LinkedIn](https://www.linkedin.com/in/askinkadir/): Professional profile.
